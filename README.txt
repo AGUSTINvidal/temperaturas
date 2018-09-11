@@ -1,1 +1,1 @@
-Este es un proyecto que calcula las temperaturas y las conversiones de las mismas, se desarrolló en JAVA.
+Este proyecto contiene el trabajo solicitado de conversiones de temperaturas.
