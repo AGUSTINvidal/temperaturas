@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="12c1fcdf-c81c-4840-a7d6-366bea7452cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRU/PRU.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PRU/PRU.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRU/src/NEW/CONVER.java" beforeDir="false" afterPath="$PROJECT_DIR$/PRU/src/NEW/CONVER.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRU/src/NEW/cajaCONVER.java" beforeDir="false" afterPath="$PROJECT_DIR$/PRU/src/NEW/cajaCONVER.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +23,8 @@
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,12 +41,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="999" />
+          <entry key="java" value="1015" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="999" />
+          <entry key="JAVA" value="1015" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -60,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PRU/src/NEW/CONVER.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="370">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
             </state>
           </provider>
         </entry>
@@ -69,17 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PRU/src/NEW/cajaCONVER.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PruebasTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="660">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -105,12 +98,12 @@
         <option value="$PROJECT_DIR$/PRU/src/NEW/CONVERTest.java" />
         <option value="$PROJECT_DIR$/PRU/src/NEW/PruebaT.java" />
         <option value="$PROJECT_DIR$/PRU/src/NEW/convertir.java" />
-        <option value="$PROJECT_DIR$/PRU/src/NEW/CONVER.java" />
         <option value="$PROJECT_DIR$/PRU/src/NEW/claseDEpruebasTest.java" />
         <option value="$PROJECT_DIR$/PRU/src/NEW/claseDEpruebas.java" />
-        <option value="$PROJECT_DIR$/PRU/src/NEW/cajaCONVER.java" />
         <option value="$PROJECT_DIR$/PRU/src/NEW/PruebasUNI.java" />
         <option value="$PROJECT_DIR$/PRU/src/NEW/cajaCONVERTest.java" />
+        <option value="$PROJECT_DIR$/PRU/src/NEW/CONVER.java" />
+        <option value="$PROJECT_DIR$/PRU/src/NEW/cajaCONVER.java" />
       </list>
     </option>
   </component>
@@ -120,7 +113,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="814" />
     <option name="height" value="867" />
@@ -131,9 +124,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,6 +148,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,12 +158,12 @@
     <property name="SearchEverywhereHistoryKey" value="da&#9;ACTION&#9;ActivateDatabaseChangesToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536497078028" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536681495663" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/PRU/src/NEW" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -317,24 +310,24 @@
       <updated>1536464265399</updated>
       <workItem from="1536464267039" duration="10675000" />
       <workItem from="1536482508003" duration="4189000" />
+      <workItem from="1536681010772" duration="483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14864000" />
+    <option name="totallyTimeSpent" value="15347000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="814" height="867" extended-state="1" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865228" visible="true" weight="0.22944297" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865228" visible="true" weight="0.11439589" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5013477" side_tool="true" weight="0.12082262" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.3287858" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32345015" />
@@ -347,6 +340,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32479784" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.3287858" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -401,6 +395,8 @@
     <entry file="file://$PROJECT_DIR$/PRU/src/NEW/convertir.java" />
     <entry file="file://$PROJECT_DIR$/PRU/src/NEW/claseDEpruebasTest.java" />
     <entry file="file://$PROJECT_DIR$/PRU/src/NEW/claseDEpruebas.java" />
+    <entry file="file://$PROJECT_DIR$/PRU/src/NEW/PruebasUNI.java" />
+    <entry file="file://$PROJECT_DIR$/PRU/src/NEW/cajaCONVERTest.java" />
     <entry file="file://$PROJECT_DIR$/PruebasTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -410,33 +406,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PRU/src/NEW/CONVER.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PRU/src/NEW/PruebasUNI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PRU/src/NEW/cajaCONVERTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#74#106#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="370">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PRU/src/NEW/cajaCONVER.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="660">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
